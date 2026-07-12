@@ -21,7 +21,7 @@ Everything lives in [`data/`](data/) as JSON and CSV: one full season for a 16-a
 
 **Start with [`data/DATA.md`](data/DATA.md)** — it explains every file and field, the scales (Clutch Factor is 0–1000 with 750 as "the line"), the join keys, and how to regenerate or remix the season if your idea needs more.
 
-## Sparks (not specs)
+## Some ideas
 
 You don't need to use any of these. They're here to show the *kind* of thing that gets us excited:
 
