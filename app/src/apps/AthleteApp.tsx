@@ -12,8 +12,7 @@ import * as api from "../api";
 // ─────────────────────────── static content tables ───────────────────────────
 // Ported VERBATIM from the recovered DCLogic script (the ground truth).
 
-// The Player API doesn't expose per-athlete assessment links yet, so the
-// retest button opens NTangible's portal until Isaac provides the real URL.
+// In the kit, the retest button links to NTangible's public portal.
 const ASSESS_URL = "https://portal.ntangible.co";
 
 const CLUTCH = {
