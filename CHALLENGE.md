@@ -15,13 +15,13 @@ Play to your strengths. We picked this challenge because it has room for whateve
 
 **We want you to use AI.** But own what you ship: if we ask questions — performance tradeoffs, known limitations, why this approach over another — you need to be able to answer them.
 
-## The data
+## 1. The data
 
 Everything lives in [`data/`](data/) as JSON and CSV: one full season for a 16-athlete fastpitch team — Clutch Factor™ scores with 18 months of history per athlete, NTerpret™ mental profiles with quarterly snapshots, a 12-drill catalog with ~1,800 logged sessions, and a 24-game schedule.
 
 **Start with [`data/DATA.md`](data/DATA.md)** — it explains every file and field, the scales (Clutch Factor is 0–1000 with 750 as "the line"), the join keys, and how to regenerate or remix the season if your idea needs more.
 
-## Some ideas
+## 2. Some ideas
 
 You don't need to use any of these. They're here to show the *kind* of thing that gets us excited:
 
@@ -33,7 +33,7 @@ You don't need to use any of these. They're here to show the *kind* of thing tha
 
 There are stories deliberately hidden in this dataset. Finding one is worth more than any amount of polish.
 
-## Scope & rules
+## 3. Scope & rules
 
 - **Fork this repo and start there.** Build inside your fork — extend the app, add a folder for your standalone project, whatever fits. Forks of this private repo stay private.
 - **Timebox:** one week from when you receive this. Aim for around **4–5 focused hours**. Shipped beats perfect.
@@ -41,7 +41,7 @@ There are stories deliberately hidden in this dataset. Finding one is worth more
 - **Any stack, any tools.**
 - **Use the provided dataset.** You can regenerate/remix it with the included script if your idea needs more seasons or athletes.
 
-## Submission
+## 4. Submission
 
 1. **Build in your fork** of this repo.
 2. **Update the README in your fork** with a description of **what you built, why, and how it works** — plus how to run it (we should get from clone to running in under 5 minutes). A few sentences on "what I'd do next" are welcome too.
@@ -49,7 +49,7 @@ There are stories deliberately hidden in this dataset. Finding one is worth more
 
 We'll do a share-out where everyone demos their build.
 
-## How we'll look at it
+## 5. How we'll look at it
 
 | What | What we're asking |
 |---|---|
