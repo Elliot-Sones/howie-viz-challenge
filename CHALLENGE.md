@@ -52,10 +52,10 @@ There are stories deliberately hidden in this dataset. Finding one is worth more
 
 | What | What we're asking |
 |---|---|
-| Creativity | Did you make something we haven't seen before? |
-| Insight | Did you find something that's actually useful? |
-| Full implementation | Is this something we could add to our app today? |
-| Communication | Can you show and tell it clearly? |
+| Creativity | Did you make something we haven't seen before? A standard dashboard is the baseline — surprise us with the form, the framing, or the interaction. |
+| Insight | Did you find something in the data that's actually useful — something a coach, parent, or athlete could act on? And does your build make it obvious to them, not just to you? |
+| Full implementation | Is this something we could add to our app today? Working end-to-end on the real dataset, runs on the first try, edge cases handled — a finished piece, not a mockup or a half-wired demo. |
+| Communication | Can you show and tell it clearly? A README that explains what you built, why, and how it works — and a demo that lands the point in a couple of minutes. |
 
 
 Questions at any point → [elliot@ntangible.co](mailto:elliot@ntangible.co). We're excited to see what you build.
