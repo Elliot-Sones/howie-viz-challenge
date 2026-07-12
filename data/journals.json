@@ -1,0 +1,578 @@
+[
+  {
+    "athlete_id": "ath_harper",
+    "date": "2025-08-20",
+    "mood": "up",
+    "text": "Score's moving and I know exactly why. Keeping the routine exactly the same."
+  },
+  {
+    "athlete_id": "ath_harper",
+    "date": "2025-10-15",
+    "mood": "up",
+    "text": "Score's moving and I know exactly why. Keeping the routine exactly the same."
+  },
+  {
+    "athlete_id": "ath_harper",
+    "date": "2025-12-10",
+    "mood": "up",
+    "text": "Best stretch I've had all year. 10-Second Reset before practice is paying off — resilience finally feels automatic in big counts."
+  },
+  {
+    "athlete_id": "ath_harper",
+    "date": "2026-02-18",
+    "mood": "flat",
+    "text": "Same routine this week. Nothing clicking, nothing breaking. Just showing up."
+  },
+  {
+    "athlete_id": "ath_harper",
+    "date": "2026-04-12",
+    "mood": "up",
+    "text": "Coach didn't say anything today, but she didn't have to. The work is showing up in games."
+  },
+  {
+    "athlete_id": "ath_harper",
+    "date": "2026-06-05",
+    "mood": "flat",
+    "text": "Solid week. Not my best, not my worst. resilience still needs reps and I know it."
+  },
+  {
+    "athlete_id": "ath_dani",
+    "date": "2025-08-20",
+    "mood": "flat",
+    "text": "Solid week. Not my best, not my worst. focus still needs reps and I know it."
+  },
+  {
+    "athlete_id": "ath_dani",
+    "date": "2025-10-15",
+    "mood": "flat",
+    "text": "Practice, homework, practice. Some weeks the game just stays quiet."
+  },
+  {
+    "athlete_id": "ath_dani",
+    "date": "2025-12-10",
+    "mood": "flat",
+    "text": "Practice, homework, practice. Some weeks the game just stays quiet."
+  },
+  {
+    "athlete_id": "ath_dani",
+    "date": "2026-02-18",
+    "mood": "flat",
+    "text": "Same routine this week. Nothing clicking, nothing breaking. Just showing up."
+  },
+  {
+    "athlete_id": "ath_dani",
+    "date": "2026-04-12",
+    "mood": "flat",
+    "text": "Practice, homework, practice. Some weeks the game just stays quiet."
+  },
+  {
+    "athlete_id": "ath_dani",
+    "date": "2026-06-05",
+    "mood": "flat",
+    "text": "Same routine this week. Nothing clicking, nothing breaking. Just showing up."
+  },
+  {
+    "athlete_id": "ath_reese",
+    "date": "2025-08-20",
+    "mood": "flat",
+    "text": "Practice, homework, practice. Some weeks the game just stays quiet."
+  },
+  {
+    "athlete_id": "ath_reese",
+    "date": "2025-10-15",
+    "mood": "up",
+    "text": "Coach didn't say anything today, but she didn't have to. The work is showing up in games."
+  },
+  {
+    "athlete_id": "ath_reese",
+    "date": "2025-12-10",
+    "mood": "up",
+    "text": "Coach didn't say anything today, but she didn't have to. The work is showing up in games."
+  },
+  {
+    "athlete_id": "ath_reese",
+    "date": "2026-02-18",
+    "mood": "down",
+    "text": "Couldn't find it today. Wrote down one lesson like the guide says, then closed the notebook."
+  },
+  {
+    "athlete_id": "ath_reese",
+    "date": "2026-04-12",
+    "mood": "up",
+    "text": "Best stretch I've had all year. 10-Second Reset before practice is paying off — resilience finally feels automatic in big counts."
+  },
+  {
+    "athlete_id": "ath_reese",
+    "date": "2026-06-05",
+    "mood": "up",
+    "text": "Coach didn't say anything today, but she didn't have to. The work is showing up in games."
+  },
+  {
+    "athlete_id": "ath_marisol",
+    "date": "2025-08-20",
+    "mood": "flat",
+    "text": "Solid week. Not my best, not my worst. resilience still needs reps and I know it."
+  },
+  {
+    "athlete_id": "ath_marisol",
+    "date": "2025-10-15",
+    "mood": "up",
+    "text": "Score's moving and I know exactly why. Keeping the routine exactly the same."
+  },
+  {
+    "athlete_id": "ath_marisol",
+    "date": "2025-12-10",
+    "mood": "up",
+    "text": "Score's moving and I know exactly why. Keeping the routine exactly the same."
+  },
+  {
+    "athlete_id": "ath_marisol",
+    "date": "2026-02-18",
+    "mood": "up",
+    "text": "Best stretch I've had all year. 10-Second Reset before practice is paying off — resilience finally feels automatic in big counts."
+  },
+  {
+    "athlete_id": "ath_marisol",
+    "date": "2026-04-12",
+    "mood": "up",
+    "text": "Coach didn't say anything today, but she didn't have to. The work is showing up in games."
+  },
+  {
+    "athlete_id": "ath_marisol",
+    "date": "2026-06-05",
+    "mood": "up",
+    "text": "Coach didn't say anything today, but she didn't have to. The work is showing up in games."
+  },
+  {
+    "athlete_id": "ath_tati",
+    "date": "2025-08-20",
+    "mood": "flat",
+    "text": "Solid week. Not my best, not my worst. resilience still needs reps and I know it."
+  },
+  {
+    "athlete_id": "ath_tati",
+    "date": "2025-10-15",
+    "mood": "flat",
+    "text": "Same routine this week. Nothing clicking, nothing breaking. Just showing up."
+  },
+  {
+    "athlete_id": "ath_tati",
+    "date": "2025-12-10",
+    "mood": "flat",
+    "text": "Practice, homework, practice. Some weeks the game just stays quiet."
+  },
+  {
+    "athlete_id": "ath_tati",
+    "date": "2026-02-18",
+    "mood": "down",
+    "text": "I know one game isn't the season, but this month feels heavy. Sticking to the plan anyway."
+  },
+  {
+    "athlete_id": "ath_tati",
+    "date": "2026-04-12",
+    "mood": "flat",
+    "text": "Solid week. Not my best, not my worst. resilience still needs reps and I know it."
+  },
+  {
+    "athlete_id": "ath_tati",
+    "date": "2026-06-05",
+    "mood": "flat",
+    "text": "Same routine this week. Nothing clicking, nothing breaking. Just showing up."
+  },
+  {
+    "athlete_id": "ath_kenzie",
+    "date": "2025-08-20",
+    "mood": "up",
+    "text": "Coach didn't say anything today, but she didn't have to. The work is showing up in games."
+  },
+  {
+    "athlete_id": "ath_kenzie",
+    "date": "2025-10-15",
+    "mood": "up",
+    "text": "Coach didn't say anything today, but she didn't have to. The work is showing up in games."
+  },
+  {
+    "athlete_id": "ath_kenzie",
+    "date": "2025-12-10",
+    "mood": "up",
+    "text": "Best stretch I've had all year. 10-Second Reset before practice is paying off — resilience finally feels automatic in big counts."
+  },
+  {
+    "athlete_id": "ath_kenzie",
+    "date": "2026-02-18",
+    "mood": "down",
+    "text": "I know one game isn't the season, but this month feels heavy. Sticking to the plan anyway."
+  },
+  {
+    "athlete_id": "ath_kenzie",
+    "date": "2026-04-12",
+    "mood": "up",
+    "text": "Coach didn't say anything today, but she didn't have to. The work is showing up in games."
+  },
+  {
+    "athlete_id": "ath_kenzie",
+    "date": "2026-06-05",
+    "mood": "up",
+    "text": "Best stretch I've had all year. 10-Second Reset before practice is paying off — resilience finally feels automatic in big counts."
+  },
+  {
+    "athlete_id": "ath_priya",
+    "date": "2025-08-20",
+    "mood": "flat",
+    "text": "Same routine this week. Nothing clicking, nothing breaking. Just showing up."
+  },
+  {
+    "athlete_id": "ath_priya",
+    "date": "2025-10-15",
+    "mood": "up",
+    "text": "Score's moving and I know exactly why. Keeping the routine exactly the same."
+  },
+  {
+    "athlete_id": "ath_priya",
+    "date": "2025-12-10",
+    "mood": "flat",
+    "text": "Same routine this week. Nothing clicking, nothing breaking. Just showing up."
+  },
+  {
+    "athlete_id": "ath_priya",
+    "date": "2026-02-18",
+    "mood": "up",
+    "text": "Coach didn't say anything today, but she didn't have to. The work is showing up in games."
+  },
+  {
+    "athlete_id": "ath_priya",
+    "date": "2026-04-12",
+    "mood": "flat",
+    "text": "Practice, homework, practice. Some weeks the game just stays quiet."
+  },
+  {
+    "athlete_id": "ath_priya",
+    "date": "2026-06-05",
+    "mood": "flat",
+    "text": "Practice, homework, practice. Some weeks the game just stays quiet."
+  },
+  {
+    "athlete_id": "ath_sophia",
+    "date": "2025-08-20",
+    "mood": "flat",
+    "text": "Same routine this week. Nothing clicking, nothing breaking. Just showing up."
+  },
+  {
+    "athlete_id": "ath_sophia",
+    "date": "2025-10-15",
+    "mood": "flat",
+    "text": "Solid week. Not my best, not my worst. competitive drive still needs reps and I know it."
+  },
+  {
+    "athlete_id": "ath_sophia",
+    "date": "2025-12-10",
+    "mood": "flat",
+    "text": "Same routine this week. Nothing clicking, nothing breaking. Just showing up."
+  },
+  {
+    "athlete_id": "ath_sophia",
+    "date": "2026-02-18",
+    "mood": "down",
+    "text": "Couldn't find it today. Wrote down one lesson like the guide says, then closed the notebook."
+  },
+  {
+    "athlete_id": "ath_sophia",
+    "date": "2026-04-12",
+    "mood": "flat",
+    "text": "Same routine this week. Nothing clicking, nothing breaking. Just showing up."
+  },
+  {
+    "athlete_id": "ath_sophia",
+    "date": "2026-06-05",
+    "mood": "flat",
+    "text": "Solid week. Not my best, not my worst. competitive drive still needs reps and I know it."
+  },
+  {
+    "athlete_id": "ath_ella",
+    "date": "2025-08-20",
+    "mood": "up",
+    "text": "Coach didn't say anything today, but she didn't have to. The work is showing up in games."
+  },
+  {
+    "athlete_id": "ath_ella",
+    "date": "2025-10-15",
+    "mood": "flat",
+    "text": "Same routine this week. Nothing clicking, nothing breaking. Just showing up."
+  },
+  {
+    "athlete_id": "ath_ella",
+    "date": "2025-12-10",
+    "mood": "up",
+    "text": "Best stretch I've had all year. Clutch Self-Talk before practice is paying off — confidence finally feels automatic in big counts."
+  },
+  {
+    "athlete_id": "ath_ella",
+    "date": "2026-02-18",
+    "mood": "down",
+    "text": "Couldn't find it today. Wrote down one lesson like the guide says, then closed the notebook."
+  },
+  {
+    "athlete_id": "ath_ella",
+    "date": "2026-04-12",
+    "mood": "up",
+    "text": "Score's moving and I know exactly why. Keeping the routine exactly the same."
+  },
+  {
+    "athlete_id": "ath_ella",
+    "date": "2026-06-05",
+    "mood": "up",
+    "text": "Score's moving and I know exactly why. Keeping the routine exactly the same."
+  },
+  {
+    "athlete_id": "ath_noa",
+    "date": "2025-08-20",
+    "mood": "flat",
+    "text": "Practice, homework, practice. Some weeks the game just stays quiet."
+  },
+  {
+    "athlete_id": "ath_noa",
+    "date": "2025-10-15",
+    "mood": "flat",
+    "text": "Solid week. Not my best, not my worst. resilience still needs reps and I know it."
+  },
+  {
+    "athlete_id": "ath_noa",
+    "date": "2025-12-10",
+    "mood": "up",
+    "text": "Score's moving and I know exactly why. Keeping the routine exactly the same."
+  },
+  {
+    "athlete_id": "ath_noa",
+    "date": "2026-02-18",
+    "mood": "up",
+    "text": "Coach didn't say anything today, but she didn't have to. The work is showing up in games."
+  },
+  {
+    "athlete_id": "ath_noa",
+    "date": "2026-04-12",
+    "mood": "up",
+    "text": "Best stretch I've had all year. 10-Second Reset before practice is paying off — resilience finally feels automatic in big counts."
+  },
+  {
+    "athlete_id": "ath_noa",
+    "date": "2026-06-05",
+    "mood": "up",
+    "text": "Best stretch I've had all year. 10-Second Reset before practice is paying off — resilience finally feels automatic in big counts."
+  },
+  {
+    "athlete_id": "ath_gabby",
+    "date": "2025-08-20",
+    "mood": "up",
+    "text": "Score's moving and I know exactly why. Keeping the routine exactly the same."
+  },
+  {
+    "athlete_id": "ath_gabby",
+    "date": "2025-10-15",
+    "mood": "up",
+    "text": "Score's moving and I know exactly why. Keeping the routine exactly the same."
+  },
+  {
+    "athlete_id": "ath_gabby",
+    "date": "2025-12-10",
+    "mood": "up",
+    "text": "Coach didn't say anything today, but she didn't have to. The work is showing up in games."
+  },
+  {
+    "athlete_id": "ath_gabby",
+    "date": "2026-02-18",
+    "mood": "down",
+    "text": "Rough one against Summit Select. Replayed the last at-bat the whole ride home. Trying the 24-hour rule."
+  },
+  {
+    "athlete_id": "ath_gabby",
+    "date": "2026-04-12",
+    "mood": "up",
+    "text": "Score's moving and I know exactly why. Keeping the routine exactly the same."
+  },
+  {
+    "athlete_id": "ath_gabby",
+    "date": "2026-06-05",
+    "mood": "up",
+    "text": "Best stretch I've had all year. 10-Second Reset before practice is paying off — resilience finally feels automatic in big counts."
+  },
+  {
+    "athlete_id": "ath_mika",
+    "date": "2025-08-20",
+    "mood": "up",
+    "text": "Coach didn't say anything today, but she didn't have to. The work is showing up in games."
+  },
+  {
+    "athlete_id": "ath_mika",
+    "date": "2025-10-15",
+    "mood": "up",
+    "text": "Coach didn't say anything today, but she didn't have to. The work is showing up in games."
+  },
+  {
+    "athlete_id": "ath_mika",
+    "date": "2025-12-10",
+    "mood": "up",
+    "text": "Coach didn't say anything today, but she didn't have to. The work is showing up in games."
+  },
+  {
+    "athlete_id": "ath_mika",
+    "date": "2026-02-18",
+    "mood": "down",
+    "text": "I know one game isn't the season, but this month feels heavy. Sticking to the plan anyway."
+  },
+  {
+    "athlete_id": "ath_mika",
+    "date": "2026-04-12",
+    "mood": "up",
+    "text": "Best stretch I've had all year. 10-Second Reset before practice is paying off — resilience finally feels automatic in big counts."
+  },
+  {
+    "athlete_id": "ath_mika",
+    "date": "2026-06-05",
+    "mood": "up",
+    "text": "Coach didn't say anything today, but she didn't have to. The work is showing up in games."
+  },
+  {
+    "athlete_id": "ath_zoe",
+    "date": "2025-08-20",
+    "mood": "flat",
+    "text": "Solid week. Not my best, not my worst. confidence still needs reps and I know it."
+  },
+  {
+    "athlete_id": "ath_zoe",
+    "date": "2025-10-15",
+    "mood": "flat",
+    "text": "Same routine this week. Nothing clicking, nothing breaking. Just showing up."
+  },
+  {
+    "athlete_id": "ath_zoe",
+    "date": "2025-12-10",
+    "mood": "flat",
+    "text": "Practice, homework, practice. Some weeks the game just stays quiet."
+  },
+  {
+    "athlete_id": "ath_zoe",
+    "date": "2026-02-18",
+    "mood": "down",
+    "text": "Rough one against Summit Select. Replayed the last at-bat the whole ride home. Trying the 24-hour rule."
+  },
+  {
+    "athlete_id": "ath_zoe",
+    "date": "2026-04-12",
+    "mood": "flat",
+    "text": "Practice, homework, practice. Some weeks the game just stays quiet."
+  },
+  {
+    "athlete_id": "ath_zoe",
+    "date": "2026-06-05",
+    "mood": "flat",
+    "text": "Same routine this week. Nothing clicking, nothing breaking. Just showing up."
+  },
+  {
+    "athlete_id": "ath_adaeze",
+    "date": "2025-08-20",
+    "mood": "flat",
+    "text": "Same routine this week. Nothing clicking, nothing breaking. Just showing up."
+  },
+  {
+    "athlete_id": "ath_adaeze",
+    "date": "2025-10-15",
+    "mood": "flat",
+    "text": "Practice, homework, practice. Some weeks the game just stays quiet."
+  },
+  {
+    "athlete_id": "ath_adaeze",
+    "date": "2025-12-10",
+    "mood": "up",
+    "text": "Five sessions this week. Reps don't lie — the number's moving and I can point to exactly why."
+  },
+  {
+    "athlete_id": "ath_adaeze",
+    "date": "2026-02-18",
+    "mood": "up",
+    "text": "Pressure feels smaller lately. Not because the games got smaller — because the work got bigger."
+  },
+  {
+    "athlete_id": "ath_adaeze",
+    "date": "2026-04-12",
+    "mood": "up",
+    "text": "Pressure feels smaller lately. Not because the games got smaller — because the work got bigger."
+  },
+  {
+    "athlete_id": "ath_adaeze",
+    "date": "2026-06-05",
+    "mood": "up",
+    "text": "Five sessions this week. Reps don't lie — the number's moving and I can point to exactly why."
+  },
+  {
+    "athlete_id": "ath_lena",
+    "date": "2025-08-20",
+    "mood": "up",
+    "text": "Best stretch I've had all year. 10-Second Reset before practice is paying off — resilience finally feels automatic in big counts."
+  },
+  {
+    "athlete_id": "ath_lena",
+    "date": "2025-10-15",
+    "mood": "up",
+    "text": "Score's moving and I know exactly why. Keeping the routine exactly the same."
+  },
+  {
+    "athlete_id": "ath_lena",
+    "date": "2025-12-10",
+    "mood": "down",
+    "text": "Everyone keeps asking if I'm okay. I said yes because that's the easy answer."
+  },
+  {
+    "athlete_id": "ath_lena",
+    "date": "2026-02-18",
+    "mood": "down",
+    "text": "Everyone keeps asking if I'm okay. I said yes because that's the easy answer."
+  },
+  {
+    "athlete_id": "ath_lena",
+    "date": "2026-04-12",
+    "mood": "down",
+    "text": "Watched more than I played again. Maybe next season looks different."
+  },
+  {
+    "athlete_id": "ath_lena",
+    "date": "2026-06-05",
+    "mood": "down",
+    "text": "Everyone keeps asking if I'm okay. I said yes because that's the easy answer."
+  },
+  {
+    "athlete_id": "ath_rowan",
+    "date": "2025-08-20",
+    "mood": "up",
+    "text": "Best stretch I've had all year. Anchor Routine before practice is paying off — focus finally feels automatic in big counts."
+  },
+  {
+    "athlete_id": "ath_rowan",
+    "date": "2025-10-15",
+    "mood": "up",
+    "text": "Best stretch I've had all year. Anchor Routine before practice is paying off — focus finally feels automatic in big counts."
+  },
+  {
+    "athlete_id": "ath_rowan",
+    "date": "2025-12-10",
+    "mood": "up",
+    "text": "Best stretch I've had all year. Anchor Routine before practice is paying off — focus finally feels automatic in big counts."
+  },
+  {
+    "athlete_id": "ath_rowan",
+    "date": "2026-02-18",
+    "mood": "down",
+    "text": "Couldn't find it today. Wrote down one lesson like the guide says, then closed the notebook."
+  },
+  {
+    "athlete_id": "ath_rowan",
+    "date": "2026-04-12",
+    "mood": "up",
+    "text": "Score's moving and I know exactly why. Keeping the routine exactly the same."
+  },
+  {
+    "athlete_id": "ath_rowan",
+    "date": "2026-06-05",
+    "mood": "up",
+    "text": "Coach didn't say anything today, but she didn't have to. The work is showing up in games."
+  }
+]

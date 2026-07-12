@@ -1,17 +1,17 @@
-id,name,position,jersey,tier,clutch_score,alignment,org
-ath_harper,Harper Vance,P,21,Clutch,828,74,Alliance Fastpitch
-ath_dani,Dani Okafor,C,7,Elite,918,38,Alliance Fastpitch
-ath_reese,Reese Calloway,SS,2,Rising,720,66,Alliance Fastpitch
-ath_marisol,Marisol Duarte,CF,11,Clutch,781,81,Alliance Fastpitch
-ath_tati,Tatiana Brooks,1B,24,Clutch,793,71,Alliance Fastpitch
-ath_kenzie,Kenzie Moraes,2B,5,Rising,596,52,Alliance Fastpitch
-ath_priya,Priya Raman,3B,14,Clutch,764,88,Alliance Fastpitch
-ath_sophia,Sophia Lindqvist,LF,9,Rising,573,45,Alliance Fastpitch
-ath_ella,Ella Whitfield,RF,3,Rising,705,63,Alliance Fastpitch
-ath_noa,Noa Barros,P,17,Rising,662,77,Alliance Fastpitch
-ath_gabby,Gabby Ashford,UT,8,Developing,488,31,Alliance Fastpitch
-ath_mika,Mika Tanaka,C,12,Rising,641,69,Alliance Fastpitch
-ath_zoe,Zoe Ferreira,DP,29,Developing,452,58,Alliance Fastpitch
-ath_adaeze,Adaeze Nwosu,CF,6,Elite,902,92,Alliance Fastpitch
-ath_lena,Lena Kovac,SS,4,Developing,470,64,Alliance Fastpitch
-ath_rowan,Rowan McAllister,P,19,Clutch,755,47,Alliance Fastpitch
+id,name,position,jersey,tier,clutch_score,alignment,org,hometown,class_of,bats,throws,quote,fun_fact,color
+ath_harper,Harper Vance,P,21,Clutch,828,74,Alliance Fastpitch,"Chandler, AZ",2027,R,R,The circle is quiet if you get there first.,Throws four pitches; fully trusts two.,#C84B31
+ath_dani,Dani Okafor,C,7,Elite,918,38,Alliance Fastpitch,"Fresno, CA",2027,L,R,"Frame it, don't fight it.",Has called her own game since 12U.,#1F6F8B
+ath_reese,Reese Calloway,SS,2,Rising,720,66,Alliance Fastpitch,"Boise, ID",2028,R,R,"Feet first, glove follows.",Hasn't missed a morning ground-ball drill since March.,#4A7856
+ath_marisol,Marisol Duarte,CF,11,Clutch,781,81,Alliance Fastpitch,"El Paso, TX",2027,L,L,"I time the gap, not the pitcher.","Leads the team in grass stains, and it isn't close.",#B8860B
+ath_tati,Tatiana Brooks,1B,24,Clutch,793,71,Alliance Fastpitch,"Peoria, IL",2027,R,R,"Slow heartbeat, fast hands.",Does homework in the dugout between games.,#6B4E9B
+ath_kenzie,Kenzie Moraes,2B,5,Rising,596,52,Alliance Fastpitch,"Overland Park, KS",2028,S,R,Switch-hitting is just options.,Learned to switch-hit off a garage tee in one winter.,#D96C4F
+ath_priya,Priya Raman,3B,14,Clutch,764,88,Alliance Fastpitch,"Fremont, CA",2027,R,R,Third base is a conversation.,Charts opposing hitters for fun.,#2E7D6B
+ath_sophia,Sophia Lindqvist,LF,9,Rising,573,45,Alliance Fastpitch,"Duluth, MN",2028,L,R,Left field has the best sunsets.,Keeps a paper scorebook nobody asked for.,#8A6FA8
+ath_ella,Ella Whitfield,RF,3,Rising,705,63,Alliance Fastpitch,"Savannah, GA",2028,R,R,The wall is a suggestion.,Has robbed three home runs this season.,#C0554E
+ath_noa,Noa Barros,P,17,Rising,662,77,Alliance Fastpitch,"Providence, RI",2028,R,R,Spin wins.,Grip experiments have their own notebook.,#3B6EA5
+ath_gabby,Gabby Ashford,UT,8,Developing,488,31,Alliance Fastpitch,"Reno, NV",2028,S,R,"Wherever coach points, I play.",Has started at six positions this season.,#7A8B3F
+ath_mika,Mika Tanaka,C,12,Rising,641,69,Alliance Fastpitch,"Tacoma, WA",2028,R,R,"Catch first, talk later.",Blocks rise balls for fun; asks for more.,#A85C7A
+ath_zoe,Zoe Ferreira,DP,29,Developing,452,58,Alliance Fastpitch,"Baton Rouge, LA",2028,L,R,Designated pressure.,Walk-up song has changed nine times this season.,#556B2F
+ath_adaeze,Adaeze Nwosu,CF,6,Elite,902,92,Alliance Fastpitch,"Columbus, OH",2027,R,R,Reps don't lie.,First to practice 41 days straight and counting.,#B22C4F
+ath_lena,Lena Kovac,SS,4,Developing,470,64,Alliance Fastpitch,"Pittsburgh, PA",2027,R,R,"Short memory, long season.",Taught half the team their pregame handshake.,#5F7470
+ath_rowan,Rowan McAllister,P,19,Clutch,755,47,Alliance Fastpitch,"Asheville, NC",2028,L,L,The change-up changes everything.,Pitches faster when her socks don't match.,#38689E

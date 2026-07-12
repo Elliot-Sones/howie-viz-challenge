@@ -24,12 +24,15 @@ Everything the app shows — and a lot more depth than it shows — lives in [`d
 | File | What it is |
 |---|---|
 | `team.json` | The team: Alliance Fastpitch — Thunder 16U, 2025–26 season |
-| `athletes.json` | 16 athletes: position, tier, current Clutch Factor (0–1000), alignment (0–100) |
+| `athletes.json` | 16 athletes: position, tier, current Clutch Factor (0–1000), alignment (0–100), plus bios — hometown, class, quote, fun fact, and a color each athlete owns |
 | `clutch_history.json` / `.csv` | 18 months of Clutch Factor per athlete (the app only shows 3 points!) |
 | `nterpret.json` / `nterpret_history.csv` | Each athlete's 5-domain mental profile + 6 quarterly snapshots |
 | `drills.json` | The 12-drill mental training catalog |
 | `drill_log.json` / `.csv` | ~1,800 real-ish drill completions across the season |
 | `games.json` / `.csv` | The 24-game season: results, margins, pressure games |
+| `game_log.json` / `.csv` | Per-athlete stat lines for every game — where the mental data meets the field |
+| `moments.json` / `.csv` | The clutch-moments log: situation, action, outcome, and how fast she reset |
+| `journals.json` / `.csv` | Six season journal entries per athlete, in her own voice |
 | `guides.json` | The in-app education library |
 
 Full field-by-field dictionary: [`data/DATA.md`](data/DATA.md).

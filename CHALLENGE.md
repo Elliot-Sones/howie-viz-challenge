@@ -15,7 +15,7 @@ Play to your strengths. We picked this challenge because it has room for whateve
 
 ## 1. The data
 
-Everything lives in [`data/`](data/) as JSON and CSV: one full season for a 16-athlete fastpitch team — Clutch Factor™ scores with 18 months of history per athlete, NTerpret™ mental profiles with quarterly snapshots, a 12-drill catalog with ~1,800 logged sessions, and a 24-game schedule.
+Everything lives in [`data/`](data/) as JSON and CSV: one full season for a 16-athlete fastpitch team — Clutch Factor™ scores with 18 months of history per athlete, NTerpret™ mental profiles with quarterly snapshots, a 12-drill catalog with ~1,800 logged sessions, a 24-game schedule **with per-athlete stat lines for every game**, a clutch-moments event log, season journals in each athlete's voice, and a bio for every athlete.
 
 **All of it is mock data** — every athlete, name, score, and game is synthetic, generated for this challenge. No real athlete data anywhere.
 

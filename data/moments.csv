@@ -1,0 +1,64 @@
+moment_id,game_id,date,athlete_id,inning,leverage,situation,action,outcome,reset_pitches
+m001,g01,2025-08-16,ath_dani,5,5,Defensive play with the game on the line,Throwing error lets the run in,negative,4
+m002,g01,2025-08-16,ath_gabby,3,3,First at-bat back after a rough game,Line-drive double into the gap,positive,4
+m003,g01,2025-08-16,ath_sophia,5,4,"Full count, go-ahead run on second",Strikeout swinging on a rise ball,negative,3
+m004,g01,2025-08-16,ath_harper,7,5,Pitching with the tying run on third,Wild pitch scores the tying run,negative,3
+m005,g01,2025-08-16,ath_dani,7,5,"Bottom of the seventh, winning run on second",Walk-off single through the left side,positive,1
+m006,g02,2025-08-23,ath_tati,1,3,First at-bat back after a rough game,Throwing error lets the run in,negative,3
+m007,g03,2025-09-06,ath_priya,5,4,"Full count, go-ahead run on second",Line-drive double into the gap,positive,3
+m008,g03,2025-09-06,ath_adaeze,5,4,"Two on, nobody out, down by one",Strikeout swinging on a rise ball,negative,3
+m009,g03,2025-09-06,ath_rowan,6,5,"Bases loaded, two out",Takes the extra base on a shallow single,positive,4
+m010,g03,2025-09-06,ath_mika,4,3,First at-bat back after a rough game,RBI single up the middle,positive,4
+m011,g03,2025-09-06,ath_dani,7,5,"Bottom of the seventh, winning run on second",Walk-off single through the left side,positive,1
+m012,g04,2025-09-13,ath_priya,5,4,"Runner on third, one out, tie game",Caught looking with runners on,negative,3
+m013,g04,2025-09-13,ath_kenzie,6,3,Leadoff at-bat after an error the inning before,"Sac fly, run scores",positive,4
+m014,g04,2025-09-13,ath_reese,5,3,"Down 0-2 in the count, runners in scoring position",Popped up the first pitch,negative,4
+m015,g04,2025-09-13,ath_harper,6,5,Pitching with the tying run on third,Wild pitch scores the tying run,negative,4
+m016,g05,2025-09-27,ath_rowan,5,2,At the plate right after a teammate's strikeout,Strikeout swinging on a rise ball,negative,3
+m017,g05,2025-09-27,ath_dani,2,3,"Down 0-2 in the count, runners in scoring position",Strikeout swinging on a rise ball,negative,3
+m018,g06,2025-10-04,ath_rowan,6,5,Pitching with the tying run on third,Strikeout looking ends the threat,positive,4
+m019,g06,2025-10-04,ath_reese,7,5,Defensive play with the game on the line,Backhand stop and the throw beats the runner,positive,3
+m020,g07,2025-10-11,ath_mika,6,5,Defensive play with the game on the line,Line-drive double into the gap,positive,5
+m021,g07,2025-10-11,ath_mika,4,3,Leadoff at-bat after an error the inning before,RBI single up the middle,positive,4
+m022,g07,2025-10-11,ath_priya,7,4,"Full count, go-ahead run on second",Throwing error lets the run in,negative,3
+m023,g07,2025-10-11,ath_zoe,5,5,Defensive play with the game on the line,Caught looking with runners on,negative,4
+m024,g07,2025-10-11,ath_dani,7,5,"Bottom of the seventh, winning run on second",Walk-off single through the left side,positive,1
+m025,g08,2025-10-25,ath_kenzie,5,4,"Runner on third, one out, tie game",Popped up the first pitch,negative,4
+m026,g09,2025-11-08,ath_reese,7,4,"Two on, nobody out, down by one",Strikeout swinging on a rise ball,negative,5
+m027,g09,2025-11-08,ath_rowan,7,5,Pitching with the tying run on third,Strikeout looking ends the threat,positive,3
+m028,g10,2025-11-15,ath_sophia,6,4,"Full count, go-ahead run on second",Backhand stop and the throw beats the runner,positive,4
+m029,g10,2025-11-15,ath_noa,5,4,"Runner on third, one out, tie game",Popped up the first pitch,negative,5
+m030,g10,2025-11-15,ath_tati,5,4,"Two on, nobody out, down by one",Throwing error lets the run in,negative,4
+m031,g10,2025-11-15,ath_dani,7,5,"Bottom of the seventh, winning run on second",Walk-off single through the left side,positive,1
+m032,g11,2025-12-06,ath_sophia,5,4,"Runner on third, one out, tie game",Strikeout swinging on a rise ball,negative,3
+m033,g11,2025-12-06,ath_priya,5,3,Leadoff at-bat after an error the inning before,Popped up the first pitch,negative,3
+m034,g12,2025-12-13,ath_sophia,6,3,First at-bat back after a rough game,Throwing error lets the run in,negative,5
+m035,g12,2025-12-13,ath_noa,3,2,At the plate right after a teammate's strikeout,Strikeout swinging on a rise ball,negative,4
+m036,g12,2025-12-13,ath_gabby,6,3,Leadoff at-bat after an error the inning before,Caught looking with runners on,negative,4
+m037,g12,2025-12-13,ath_reese,6,3,First at-bat back after a rough game,Caught looking with runners on,negative,4
+m038,g13,2026-01-10,ath_tati,6,5,Defensive play with the game on the line,"Bobbled exchange, everyone safe",negative,4
+m039,g13,2026-01-10,ath_ella,3,3,First at-bat back after a rough game,RBI single up the middle,positive,2
+m040,g13,2026-01-10,ath_mika,6,5,Defensive play with the game on the line,Strikeout swinging on a rise ball,negative,5
+m041,g13,2026-01-10,ath_harper,5,4,"Two on, nobody out, down by one",RBI single up the middle,positive,3
+m042,g13,2026-01-10,ath_dani,7,5,"Bottom of the seventh, winning run on second",Walk-off single through the left side,positive,1
+m043,g14,2026-01-17,ath_noa,5,5,Pitching with the tying run on third,Strikeout looking ends the threat,positive,5
+m044,g14,2026-01-17,ath_lena,6,5,"Bases loaded, two out",Caught looking with runners on,negative,4
+m045,g14,2026-01-17,ath_ella,1,3,"Down 0-2 in the count, runners in scoring position",Strikeout swinging on a rise ball,negative,3
+m046,g14,2026-01-17,ath_zoe,7,4,"Two on, nobody out, down by one",Popped up the first pitch,negative,4
+m047,g15,2026-01-31,ath_zoe,7,5,"Bases loaded, two out",Popped up the first pitch,negative,5
+m048,g16,2026-02-07,ath_adaeze,6,4,"Two on, nobody out, down by one",Throwing error lets the run in,negative,2
+m049,g16,2026-02-07,ath_mika,7,4,"Two on, nobody out, down by one",Strikeout swinging on a rise ball,negative,3
+m050,g17,2026-02-14,ath_sophia,6,5,Defensive play with the game on the line,Backhand stop and the throw beats the runner,positive,4
+m051,g18,2026-02-21,ath_marisol,6,4,"Two on, nobody out, down by one",Throwing error lets the run in,negative,2
+m052,g18,2026-02-21,ath_ella,2,2,At the plate right after a teammate's strikeout,"Bobbled exchange, everyone safe",negative,4
+m053,g19,2026-03-07,ath_ella,7,3,Leadoff at-bat after an error the inning before,"Sac fly, run scores",positive,4
+m054,g19,2026-03-07,ath_harper,3,3,First at-bat back after a rough game,Caught looking with runners on,negative,3
+m055,g20,2026-03-21,ath_harper,6,5,Defensive play with the game on the line,Line-drive double into the gap,positive,4
+m056,g20,2026-03-21,ath_noa,7,5,Pitching with the tying run on third,Wild pitch scores the tying run,negative,4
+m057,g21,2026-04-11,ath_lena,6,5,"Bases loaded, two out",Strikeout swinging on a rise ball,negative,6
+m058,g22,2026-04-25,ath_marisol,6,4,"Full count, go-ahead run on second",Caught looking with runners on,negative,3
+m059,g22,2026-04-25,ath_harper,6,5,Pitching with the tying run on third,Wild pitch scores the tying run,negative,3
+m060,g22,2026-04-25,ath_reese,6,2,At the plate right after a teammate's strikeout,Popped up the first pitch,negative,3
+m061,g22,2026-04-25,ath_kenzie,7,5,"Bases loaded, two out",Popped up the first pitch,negative,5
+m062,g23,2026-05-16,ath_mika,7,4,"Runner on third, one out, tie game","Bobbled exchange, everyone safe",negative,4
+m063,g24,2026-06-06,ath_mika,6,4,"Full count, go-ahead run on second","Bobbled exchange, everyone safe",negative,4
