@@ -52,9 +52,9 @@ There are stories deliberately hidden in this dataset. Finding one is worth more
 
 | What | What we're asking |
 |---|---|
-| Creativity & insights | Did you make something we haven't seen before? |
-| Insights | Did you find something that is actually useful? |
-| Full-implementation  | Is this something that we can add this to our app today? |
+| Creativity | Did you make something we haven't seen before? |
+| Insight | Did you find something that's actually useful? |
+| Full implementation | Is this something we could add to our app today? |
 | Communication | Can you show and tell it clearly? |
 
 
