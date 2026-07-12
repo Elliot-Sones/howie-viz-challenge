@@ -24,9 +24,7 @@ Everything lives in [`data/`](data/) as JSON and CSV: one full season for a 16-a
 - **We want you to use AI.** But own what you ship: if we ask questions — performance tradeoffs, known limitations, why this approach over another — you need to be able to answer them.
 - **Fork this repo and start there.** Build inside your fork — extend the app, add a folder for your standalone project, whatever fits. Forks of this private repo stay private.
 - **Timebox:** due date is Tuesday July 21st at 12am. Please submit your work before then. Late replies will not be accepted.
-- **Individual work.** Everyone gets the same kit; we're excited to see how different the answers come back.
 - **Any stack, any tools.**
-- **Use the provided dataset.** You can regenerate/remix it with the included script if your idea needs more seasons or athletes.
 
 ## 3. Submission
 
