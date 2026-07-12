@@ -21,7 +21,23 @@ Everything lives in [`data/`](data/) as JSON and CSV: one full season for a 16-a
 
 **Start with [`data/DATA.md`](data/DATA.md)** — it explains every file and field, the scales (Clutch Factor is 0–1000 with 750 as "the line"), the join keys, and how to regenerate or remix the season if your idea needs more.
 
-## 2. Some ideas
+## 2. Scope & rules
+
+- **Fork this repo and start there.** Build inside your fork — extend the app, add a folder for your standalone project, whatever fits. Forks of this private repo stay private.
+- **Timebox:** one week from when you receive this. Aim for around **4–5 focused hours**. Shipped beats perfect.
+- **Individual work.** Everyone gets the same kit; we're excited to see how different the answers come back.
+- **Any stack, any tools.**
+- **Use the provided dataset.** You can regenerate/remix it with the included script if your idea needs more seasons or athletes.
+
+## 3. Submission
+
+1. **Build in your fork** of this repo.
+2. **Update the README in your fork** with a description of **what you built, why, and how it works** — plus how to run it (we should get from clone to running in under 5 minutes). A few sentences on "what I'd do next" are welcome too.
+3. **Email your fork's GitHub link to [elliot@ntangible.co](mailto:elliot@ntangible.co).**
+
+We'll do a share-out where everyone demos their build.
+
+## 4. Some ideas
 
 You don't need to use any of these. They're here to show the *kind* of thing that gets us excited:
 
@@ -32,22 +48,6 @@ You don't need to use any of these. They're here to show the *kind* of thing tha
 5. **The scouting card** — generate a beautiful, shareable "mental scouting report" for any athlete.
 
 There are stories deliberately hidden in this dataset. Finding one is worth more than any amount of polish.
-
-## 3. Scope & rules
-
-- **Fork this repo and start there.** Build inside your fork — extend the app, add a folder for your standalone project, whatever fits. Forks of this private repo stay private.
-- **Timebox:** one week from when you receive this. Aim for around **4–5 focused hours**. Shipped beats perfect.
-- **Individual work.** Everyone gets the same kit; we're excited to see how different the answers come back.
-- **Any stack, any tools.**
-- **Use the provided dataset.** You can regenerate/remix it with the included script if your idea needs more seasons or athletes.
-
-## 4. Submission
-
-1. **Build in your fork** of this repo.
-2. **Update the README in your fork** with a description of **what you built, why, and how it works** — plus how to run it (we should get from clone to running in under 5 minutes). A few sentences on "what I'd do next" are welcome too.
-3. **Email your fork's GitHub link to [elliot@ntangible.co](mailto:elliot@ntangible.co).**
-
-We'll do a share-out where everyone demos their build.
 
 ## 5. How we'll look at it
 
