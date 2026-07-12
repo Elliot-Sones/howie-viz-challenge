@@ -24,7 +24,7 @@ Everything lives in [`data/`](data/) as JSON and CSV: one full season for a 16-a
 ## 2. Scope & rules
 
 - **Fork this repo and start there.** Build inside your fork — extend the app, add a folder for your standalone project, whatever fits. Forks of this private repo stay private.
-- **Timebox:** one week from when you receive this. Aim for around **4–5 focused hours**. Shipped beats perfect.
+- **Timebox:** due date is Tuesday July 21st at 12am. Please submit your work before then. Late replies will not be accepted.
 - **Individual work.** Everyone gets the same kit; we're excited to see how different the answers come back.
 - **Any stack, any tools.**
 - **Use the provided dataset.** You can regenerate/remix it with the included script if your idea needs more seasons or athletes.
