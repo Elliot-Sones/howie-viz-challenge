@@ -13,8 +13,6 @@ That's deliberately open. It could be:
 
 Play to your strengths. We picked this challenge because it has room for whatever you're best at — frontend craft, data storytelling, creative coding, product thinking.
 
-**We want you to use AI.** But own what you ship: if we ask questions — performance tradeoffs, known limitations, why this approach over another — you need to be able to answer them.
-
 ## 1. The data
 
 Everything lives in [`data/`](data/) as JSON and CSV: one full season for a 16-athlete fastpitch team — Clutch Factor™ scores with 18 months of history per athlete, NTerpret™ mental profiles with quarterly snapshots, a 12-drill catalog with ~1,800 logged sessions, and a 24-game schedule.
@@ -23,6 +21,7 @@ Everything lives in [`data/`](data/) as JSON and CSV: one full season for a 16-a
 
 ## 2. Scope & rules
 
+- **We want you to use AI.** But own what you ship: if we ask questions — performance tradeoffs, known limitations, why this approach over another — you need to be able to answer them.
 - **Fork this repo and start there.** Build inside your fork — extend the app, add a folder for your standalone project, whatever fits. Forks of this private repo stay private.
 - **Timebox:** due date is Tuesday July 21st at 12am. Please submit your work before then. Late replies will not be accepted.
 - **Individual work.** Everyone gets the same kit; we're excited to see how different the answers come back.
